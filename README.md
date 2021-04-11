@@ -13,7 +13,7 @@ Message : Congratulations! You've fired the triggerdevops event
 <h2>With an optional Json body of : </h2>
 {"value1": "Hello-trigger 2ndEvent","value2": "stuff"}
 
-devopsupdates received the "automated message from student* Month dd,YYYY at hh:mm
+devopsupdates received the *automated message from student* Month dd,YYYY at hh:mm
 
 Can also try it with curl from command line :
 curl -X POST -H "Content-Type: application/json" -d '{"value1":"Stuffhappened","value2":"","value3":""}'
