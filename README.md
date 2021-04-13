@@ -3,6 +3,7 @@
 to trigger an Event
 
 <n2>Make a POST or GET web request to : </h2>
+![Trigger An Event](./Telegram.JPG)
 https://maker.ifttt.com/trigger/triggerdevops/with/key/HEEX2rf6I5oK3-_0pPq51
 
 Use Postman to run the request
