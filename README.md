@@ -9,7 +9,7 @@ https://maker.ifttt.com/trigger/triggerdevops/with/key/HEEX2rf6I5oK3-_0pPq51
 Use Postman to run the request
 apply the link for GET request, click send button
 
-![GET request](./DevOpstest2/Postman GET.JPG)
+![GET request](./DevOpstest2/PostmanGET.JPG)
 
 Message : Congratulations! You've fired the triggerdevops event
 
