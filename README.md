@@ -6,12 +6,12 @@ to trigger an Event
 ![Trigger An Event](./Telegram.JPG)
 https://maker.ifttt.com/trigger/triggerdevops/with/key/HEEX2rf6I5oK3-_0pPq51
 
-Use Postman to run the request
+Use Postman to run the request<b>
 apply the link for GET request, click send button
 
 ![GET](./PostmanGET.JPG)
 
-Message : Congratulations! You've fired the triggerdevops event
+Message : Congratulations! You've fired the triggerdevops event <b>
 
 <h2>With an optional Json body of : </h2>
 {"value1": "Hello-trigger 2ndEvent","value2": "stuff"}
